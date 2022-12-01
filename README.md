@@ -1,6 +1,6 @@
 # Simple Python Calculator
 
-### This is a pytthon mini project for beginners but before writing code, should know about this concepts: 
+#### This is a pytthon mini project for beginners but before writing code, should know about this concepts: 
 
 - if-else 
 - while loop
