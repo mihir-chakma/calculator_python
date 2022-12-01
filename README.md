@@ -1,2 +1,4 @@
-# calculator_python
-Simple calculator in Python
+# Simple Python Calculator
+
+
+![Calculator in Python](calculator.png)
